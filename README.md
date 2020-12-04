@@ -1,7 +1,3 @@
-
-
-[TOC]
-
 # Watch Tower Comics
 
 Watch Tower Comics is a desktop application which seeks to give an individual the ability to track their comic book collection.  A desktop Comic book tracker built with NodeJS, VueJS,  Electron and SQLite3.
