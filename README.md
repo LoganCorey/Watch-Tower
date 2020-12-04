@@ -8,7 +8,7 @@ Watch Tower Comics is a desktop application which seeks to give an individual th
 
 This project was created so that I could keep track of comics the comics that I was collecting without having to pay any kind of fee.  This gave me the idea to create a DIY comic book tracking system that let's the user create and maintain their own information free of charge
 
-![](.\readme images\Main.PNG)
+![Image of application dashboard](https://github.com/LoganCorey/Watch-Tower/blob/main/readme%20images/Main.PNG)
 
 
 
